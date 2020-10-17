@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/Users/brianclauser/.local/share/virtualenvs/tau-intro-selenium-py-fd_YYHKP/bin/python",
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  }
+}

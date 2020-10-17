@@ -1,0 +1,30 @@
+1602920256865	geckodriver	INFO	Listening on 127.0.0.1:50588
+1602920257888	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/15/7lw03b092rj2bzxx8vhgmsrr0000gn/T/rust_mozprofileZwUwOw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602920264656	Marionette	INFO	Listening on port 50601
+1602956358139	geckodriver	INFO	Listening on 127.0.0.1:51725
+1602956358159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/15/7lw03b092rj2bzxx8vhgmsrr0000gn/T/rust_mozprofileXZamkX"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602956363039	Marionette	INFO	Listening on port 51734
+1602956363105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+1602956368284	Marionette	INFO	Stopped listening on port 51734
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1602956535529	geckodriver	INFO	Listening on 127.0.0.1:51888
+1602956535542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/15/7lw03b092rj2bzxx8vhgmsrr0000gn/T/rust_mozprofile90uXIj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602956537877	Marionette	INFO	Listening on port 51897
+1602956537895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2862.js, line 1: unreachable code after return statement
+1602956547602	Marionette	INFO	Stopped listening on port 51897
